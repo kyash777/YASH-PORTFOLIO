@@ -1,6 +1,6 @@
 # REACT PORTFOLIO WEBSITE
 
-## VIEW PROJECT HERE https://yashportfolio-on7r.onrender.com
+### VIEW PROJECT HERE https://yashportfolio-on7r.onrender.com
 ## ABOUT PAGE
 ![about page](images/PortAbout.png)
 ## SKILLS PAGE 
