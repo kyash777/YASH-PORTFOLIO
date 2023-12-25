@@ -2,7 +2,7 @@
 
 ## ABOUT PAGE
 ![about page](images/PortAbout.png)
-## SKILLS PAGE
+## SKILLS PAGE (### Clicking)
 ![about page](images/PortSkills.png)
 ## PROJECT PAGE
 ![about page](images/PortProject.png)
